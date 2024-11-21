@@ -16,6 +16,15 @@ The **Random Password Generator** is a user-friendly application designed to cre
 - **Real-Time Display**: See the password instantly after generating it.
 
 ---
+## Example ScreenShots
+
+### Interface
+![Interface](./img/Interface.png)
+
+### Desired Result
+![result](./img/result.png)
+
+---
 
 ## 🛠️ Installation and Setup
 
@@ -78,20 +87,6 @@ The **Random Password Generator** is a user-friendly application designed to cre
 
 ---
 
-## ❤️ Contributions
-
-Contributions are welcome! Here's how you can help:
-- Fork this repository and make your changes.
-- Submit a pull request for review.
-- Report bugs or suggest features in the **Issues** section.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
----
 
 ## 🙌 Acknowledgements
 
