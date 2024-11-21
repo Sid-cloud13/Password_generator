@@ -34,7 +34,7 @@ The **Random Password Generator** is a user-friendly application designed to cre
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/random-password-generator.git
+   git clone https://github.com/Sid-cloud13/Password_generator.git
    cd random-password-generator
    ```
 2. Run the application:
